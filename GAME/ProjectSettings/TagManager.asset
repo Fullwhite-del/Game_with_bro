@@ -59,5 +59,8 @@ TagManager:
   - name: Decor
     uniqueID: 3251947667
     locked: 0
+  - name: Collision2
+    uniqueID: 2027652389
+    locked: 0
   m_RenderingLayers:
   - Default
