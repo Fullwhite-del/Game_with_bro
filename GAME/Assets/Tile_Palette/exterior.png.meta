@@ -753,10 +753,6 @@ TextureImporter:
         - {x: 1, y: -2}
         - {x: 1, y: -8}
         - {x: 8, y: -8}
-      - - {x: 2, y: 5}
-        - {x: 8, y: 5}
-        - {x: 8, y: 8}
-        - {x: 2, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 5ae65909239fccda0800000000000000
@@ -783,10 +779,6 @@ TextureImporter:
         - {x: -8, y: -2}
         - {x: -8, y: -7}
         - {x: 8, y: -7}
-      - - {x: -8, y: 5}
-        - {x: 8, y: 5}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 177119d6188fb7f80800000000000000
@@ -813,10 +805,6 @@ TextureImporter:
         - {x: -8, y: -2}
         - {x: -8, y: -8}
         - {x: 0, y: -8}
-      - - {x: -8, y: 5}
-        - {x: -1, y: 5}
-        - {x: -1, y: 8}
-        - {x: -8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 61053157af679b530800000000000000
@@ -1499,10 +1487,6 @@ TextureImporter:
         - {x: -8, y: -2}
         - {x: -8, y: -7}
         - {x: 8, y: -7}
-      - - {x: -8, y: 4}
-        - {x: 8, y: 4}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 6110f57530d735090800000000000000
