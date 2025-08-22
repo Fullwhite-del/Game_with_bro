@@ -140,7 +140,7 @@ TextureImporter:
         x: 0
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,7 +162,7 @@ TextureImporter:
         x: 96
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,7 +184,7 @@ TextureImporter:
         x: 192
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,7 +206,7 @@ TextureImporter:
         x: 288
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,7 +228,7 @@ TextureImporter:
         x: 384
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,7 +250,7 @@ TextureImporter:
         x: 480
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,7 +272,7 @@ TextureImporter:
         x: 576
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: idle_down_7
       rect:
         serializedVersion: 2
-        x: 672
+        x: 671
         y: 22
         width: 96
-        height: 58
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
