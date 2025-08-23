@@ -1,3 +1,4 @@
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class SlimeMovement : MonoBehaviour
@@ -10,6 +11,9 @@ public class SlimeMovement : MonoBehaviour
     private Transform player;
     private Animator animator;
 
+    private float LastInputX;
+    private float LastInputY;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -19,11 +23,26 @@ public class SlimeMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (IsWalking == true)
-        {
-            Vector2 direction = (player.position - transform.position).normalized;
+        {                                           //pozitia slime
+            Vector2 direction = (player.position - transform.position).normalized; 
             rb.linearVelocity = direction * speed;
+            animator.SetFloat("InputX", direction.x);
+            animator.SetFloat("InputY", direction.y);
+
+            if (direction.magnitude > 0f)
+            {
+                LastInputX = direction.x;
+                LastInputY = direction.y;
+            }
         }
+        else
+        {
+            animator.SetFloat("LastInputX", LastInputX);
+            animator.SetFloat("LastInputY", LastInputY);
+        }
+        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -46,8 +65,9 @@ public class SlimeMovement : MonoBehaviour
         {
             rb.linearVelocity = Vector2.zero;
             animator.SetBool("IsWalking", false);
-
             IsWalking = false;
+
         }
+
     }
 }
