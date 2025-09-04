@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 02d73f4d1b6e5a4479588cfe71400621
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7938566511156615702
+    second: pixel_art_blacksmith_house_by_gmorales08_dffurry_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5d4b7e247b2e60800000000000000
+      internalID: 7938566511156615702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 346
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84128825b140d37418cd0bdc5ea5ff40
+      internalID: -2138888709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 346
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8f3fe48ee1994a97b397c9b6d0deb
+      internalID: 1975093845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 346
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2f7bb43734b74db6806fe70504606
+      internalID: 1568947055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 346
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d477c276cc282a4890a52d046150f41
+      internalID: 636565509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ba70af14b02c42b3b9dc899833e1c
+      internalID: 460800147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf63bac5a151948b07f11fee47e0c9
+      internalID: -1907137489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92539c1fd59885a49a8ed3a541429153
+      internalID: -744719591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c692958bf59741b56f749dc67340b
+      internalID: 516978168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492531623000224fb37b91eddd96635
+      internalID: -1040939257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95c2ed17f211940ab1ed2691a8f581
+      internalID: -1832233886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09d8603d5124d41adf0b289d89811b
+      internalID: 393635986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0c8a2dc68ce140bc159ebb70e4ed5
+      internalID: -16151955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03656eaee04d74341a7646a8ad3c4a2f
+      internalID: -682901695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde11349414cfbe479d412dcf2bbba55
+      internalID: -711760973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17e10bf685147419efa83c57297b56
+      internalID: -1911447341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c3435648ae79408f4412ad615bc46
+      internalID: -1888558175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f87556e156e04499784dcaea621500
+      internalID: -1174480816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3e6e536c749a43a2a931ef5e39955
+      internalID: -598917428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a2e6aa013f43419e5744893cf2d80
+      internalID: 129209866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0772369693ed03439183aa8c8808f23
+      internalID: 1768791195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd95ce87cfeaf454cb7e1372845c2dd5
+      internalID: -1863917231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 218
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c345a7972f314b81d073f1241f554
+      internalID: 530269681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33bc27a0118274e82a1c5df829c36f
+      internalID: 449338098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262dfe6f1eb4e164c8dda6756f3e3e56
+      internalID: -1031496383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb294577bb01662459154056b9080c23
+      internalID: 908815325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510e50e70c990745bc3e721f39f7fb5
+      internalID: -784764999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee0797de51dee94b914c5fe98f9a113
+      internalID: -1925944307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39dd6d392b0c541950a3dc4641a28a
+      internalID: 438915301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fe65e3c8a6b8546912e09cdf2d8fbc
+      internalID: 1885050405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1221a5b450704ab1deccf0d4f1ce3
+      internalID: -1629066498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 154
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f86873ea572e0458b6717d54a95108
+      internalID: 431727937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccbced45cf7eb44963706fb439f88e
+      internalID: -513781132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77560bc0cb25d8f4986f684fc40a649d
+      internalID: -129485162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e398aa899f1224e9c1f4b68d6bfe14
+      internalID: -1061669641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb584cfc28639c4a8ebbc752c7163fa
+      internalID: 670108461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3fc32a5c869c4c9eebb4f67162a5c
+      internalID: 426002791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6f3f95c2bdfa4a8a58411f7d3a357
+      internalID: 1513769698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbd9f6894640945aa6752761ce57eb
+      internalID: 1239945888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8328e02bce1c4bba3af7bea2411a4
+      internalID: 1034406516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 90
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e863c08f26cf3a4a929adba746ea749
+      internalID: -226909076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002d899580241b46af244024ace18c4
+      internalID: 948138055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f94d408bae8e438df92b0da1fb259
+      internalID: -1504898252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b13fc09ca9d04b9ede0eb3a49c53e
+      internalID: 1954743403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f72acf2c59ba04d8d9a4ea7c2b51ec
+      internalID: -1206343080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731b18afb739bc4c92f9cc1be69a3dc
+      internalID: 2129419173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210acecf3d8a0834d9bf5fc1caec6f50
+      internalID: 1699179060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58294ba4234694cb939b2ea7a874b4
+      internalID: -957755332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6b99bb9ca44a4d8ab83fb51b9f234
+      internalID: 1457072509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_blacksmith_house_by_gmorales08_dffurry_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 26
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02332c30b1a4ad447b9bda76a0035074
+      internalID: 1573730722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98ebc6d2da4fc9b4d9795c5811575d9f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_0: 7938566511156615702
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_1: -2138888709
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_10: -1832233886
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_11: 393635986
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_12: -16151955
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_13: -682901695
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_14: -711760973
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_15: -1911447341
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_16: -1888558175
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_17: -1174480816
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_18: -598917428
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_19: 129209866
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_2: 1975093845
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_20: 1768791195
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_21: -1863917231
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_22: 530269681
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_23: 449338098
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_24: -1031496383
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_25: 908815325
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_26: -784764999
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_27: -1925944307
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_28: 438915301
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_29: 1885050405
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_3: 1568947055
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_30: -1629066498
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_31: 431727937
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_32: -513781132
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_33: -129485162
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_34: -1061669641
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_35: 670108461
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_36: 426002791
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_37: 1513769698
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_38: 1239945888
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_39: 1034406516
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_4: 636565509
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_40: -226909076
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_41: 948138055
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_42: -1504898252
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_43: 1954743403
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_44: -1206343080
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_45: 2129419173
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_46: 1699179060
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_47: -957755332
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_48: 1457072509
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_49: 1573730722
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_5: 460800147
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_6: -1907137489
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_7: -744719591
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_8: 516978168
+      pixel_art_blacksmith_house_by_gmorales08_dffurry_9: -1040939257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
